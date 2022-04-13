@@ -1,1 +1,2 @@
 # Hopfield
+利用Python實作簡易Hopfield聯想記憶神經網路
